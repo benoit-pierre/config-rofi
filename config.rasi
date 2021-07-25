@@ -1,0 +1,8 @@
+configuration {
+    dpi: 1;
+    theme: "bpierre";
+    kb-delete-entry: "Control+Delete";
+}
+
+/** vim: ft=css sw=4
+ */
